@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
-<h3 align="center">A beginning russian developer</h3>
+<h3 align="center">A beginning russian student developer</h3>
 
 - 🔭 I’m currently working on [GCS](https://rogue-nigella-cbb.notion.site/d10bd81fba6346fbbe745c15b819d1c5)
 
