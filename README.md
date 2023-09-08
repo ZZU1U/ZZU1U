@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
 <h3 align="center">A beginning russian developer</h3>
 
-- 🔭 I’m currently working on [GCS](https://rogue-nigella-cbb.notion.site/d10bd81fba6346fbbe745c15b819d1c5)
+- 🔭 I’m currently working on IA Challenge project
 
-- 💬 Ask me about **python, linux, html**
+- 💬 Ask me about **python, linux, c++, rust, flutter**
 
 - 📫 How to reach me **gl.anohin@yandex.ru**
 
