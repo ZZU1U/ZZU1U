@@ -2,7 +2,7 @@
 
 My name is Gleb and I'am developer from Kuzbass empire (also known as a Russia state Kuzbass)
 
-Right now I'am learnign ML, DL and rust.
+Right now I'am learnign ML, DL and ~rust~.
 
 **My skills are:**
   - Python as my main language
