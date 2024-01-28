@@ -1,15 +1,14 @@
-## Hello, my friend!
+## Hi, there!
 
-My name is Gleb and I'am developer from Kuzbass empire (also known as a Russia state Kuzbass)
+My name is Gleb and I'am developer from Russia
 
-Right now I'am learnign ML, DL and ~rust~.
+Right now im working on my project Client Tracker
 
 **My skills are:**
-  - Python as my main language
-  - Web (HTML, CSS, *little bit of JS*)
-  - C++ as a language for contests
-  - Bash scripts
-  - Linux administrating *(I use ~arch~ nixos btw)*
+  - Python for all my common needs
+  - Web (HTML, CSS, JS/TS)
+  - C++ for competetive programming
+  - Unix
 
 **I've been a memeber of projects:**
   - Disruption Management (Big challenges 2022-2023)
@@ -18,6 +17,5 @@ Right now I'am learnign ML, DL and ~rust~.
   - MNQ (MNK MSU program better version)
 
 **My contacts:**
-  - telegram - @gelbal
-  - work email - gl.anohin@yandex.ru
-  - personal email - gl.anohin13@gmail.com
+  - telegram: @gelbal
+  - email: gl.anohin@yandex.ru
