@@ -2,7 +2,7 @@
 
 My name is Gleb and I'am developer from Russia
 
-Right now I'm working on my project Client Tracker
+Right now I'm working on my project Client Tracker and Habiter
 
 *My skills are:*
   - Python for all my common needs
