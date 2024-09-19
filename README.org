@@ -1,21 +1,5 @@
-/Hi, there!/
+Hi, there!
 
 My name is Gleb and I'am developer from Russia
 
-Right now I'm working on my project Client Tracker and Habiter
-
-*My skills are:*
-  - Python for all my common needs
-  - Web (HTML, CSS, JS/TS)
-  - C++ for competetive programming
-  - Unix
-
-*I've been a memeber of projects:*
-  - Disruption Management (Big challenges 2022-2023)
-  - GCS (Gesture Control System)
-  - UnikUMBot (Bot for parsing stupid sheets of schedule)
-  - MNQ (MNK MSU program better version)
-
-*My contacts:*
-  - telegram: @gelbal
-  - email: gl.anohin@yandex.ru
+Currently I am studying so don't bother me. <3
